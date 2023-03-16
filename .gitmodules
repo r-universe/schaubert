@@ -3,3 +3,8 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "MultOrdRS"]
+	path = MultOrdRS
+	url = https://github.com/schaubert/multordrs
+	shallow = true
+	registered = true
