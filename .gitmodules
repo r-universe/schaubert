@@ -1,55 +1,34 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
 [submodule "BTLLasso"]
 	path = BTLLasso
 	url = https://github.com/cran/BTLLasso
-	shallow = true
-	registered = true
 [submodule "catdata"]
 	path = catdata
 	url = https://github.com/cran/catdata
-	shallow = true
-	registered = true
 [submodule "DIFboost"]
 	path = DIFboost
 	url = https://github.com/cran/DIFboost
-	shallow = true
-	registered = true
 [submodule "DIFlasso"]
 	path = DIFlasso
 	url = https://github.com/cran/DIFlasso
-	shallow = true
-	registered = true
 [submodule "EffectStars"]
 	path = EffectStars
 	url = https://github.com/cran/EffectStars
-	shallow = true
-	registered = true
 [submodule "EffectStars2"]
 	path = EffectStars2
 	url = https://github.com/cran/EffectStars2
-	shallow = true
-	registered = true
 [submodule "GPCMlasso"]
 	path = GPCMlasso
 	url = https://github.com/cran/GPCMlasso
-	shallow = true
-	registered = true
 [submodule "MultOrdRS"]
 	path = MultOrdRS
 	url = https://github.com/schaubert/multordrs
-	shallow = true
-	registered = true
 [submodule "PCMRS"]
 	path = PCMRS
 	url = https://github.com/cran/PCMRS
-	shallow = true
-	registered = true
 [submodule "UPCM"]
 	path = UPCM
 	url = https://github.com/cran/UPCM
-	shallow = true
-	registered = true
