@@ -5,9 +5,6 @@
 [submodule "BTLLasso"]
 	path = BTLLasso
 	url = https://github.com/cran/BTLLasso
-[submodule "catdata"]
-	path = catdata
-	url = https://github.com/cran/catdata
 [submodule "DIFboost"]
 	path = DIFboost
 	url = https://github.com/cran/DIFboost
@@ -32,3 +29,6 @@
 [submodule "UPCM"]
 	path = UPCM
 	url = https://github.com/cran/UPCM
+[submodule "catdata"]
+	path = catdata
+	url = https://github.com/cran/catdata
