@@ -31,4 +31,4 @@
 	url = https://github.com/cran/UPCM
 [submodule "catdata"]
 	path = catdata
-	url = https://github.com/cran/catdata
+	url = https://github.com/schaubert/catdata
